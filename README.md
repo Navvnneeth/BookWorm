@@ -1,3 +1,6 @@
+BookWorm is a full-stack web application where users can explore a massive library of books, read book details and engage with a community of readers.
+Users can post comments, rate books, and curate their own list of favorites.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
